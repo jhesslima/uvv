@@ -42,6 +42,33 @@ Resposta: Requisitos funcionais descrevem o que o sistema deve fazer, ou seja, s
 
 Requisitos funcionais descrevem as funcionalidades do sistema, ou seja, o que ele deve fazer, como permitir login de usuários. Requisitos não funcionais descrevem como o sistema deve se comportar, como desempenho e segurança, por exemplo, o sistema deve responder em até 2 segundos.
 
+Questão 4:
+
+O projeto de um software, assim como sua documentação, traz os detalhes acerca das diversas partes de um software, seja arquitetural, de implementação e até de design, se for preciso. Um recurso que auxilia a equipe de desenvolvimento, principalmente na etapa de documentação e posteriormente de implementação do software, é o uso de diagramas, que são baseados na UML. O diagrama de casos de uso é uma ferramenta interessante da modelagem de sistemas. Ele é útil tanto internamente, utilizado pelo time de desenvolvimento, quanto externamente, manuseado pelos stakeholders.
+Descreva o que é o diagrama de caso de uso, sua utilização e em que etapa do projeto ele é criado.   
+
+Resposta: O diagrama de caso de uso é um diagrama da UML que representa as funcionalidades de um sistema a partir da visão do usuário, mostrando os atores e suas interações com o sistema. Ele é utilizado para identificar e documentar os requisitos funcionais, facilitando a comunicação entre a equipe de desenvolvimento e os stakeholders. Esse diagrama é criado nas fases iniciais do projeto, durante o levantamento e a análise de requisitos.
+
+Questão 5:
+
+Requisitos funcionais podem ser considerados, com toda a segurança, os itens mais importantes durante a modelagem de um produto de software, pois é a partir dos requisitos funcionais que todo o projeto é desenvolvido. Os requisitos funcionais são suportados por requisitos não funcionais.
+Descreva o que são requisitos funcionais e requisitos não funcionais. Exemplifique cada um.
+
+Resposta: Os requisitos funcionais descrevem as funcionalidades e serviços que o sistema deve executar, ou seja, o que o sistema deve fazer. Exemplo: permitir que o usuário realize login, cadastre produtos ou emita relatórios. Já os requisitos não funcionais definem características de qualidade e restrições do sistema, especificando como ele deve funcionar. Exemplo: o sistema deve responder às requisições em até 2 segundos ou estar disponível 99,9% do tempo.
+
+Questão 6:
+
+O projeto de um software, assim como sua documentação, traz os detalhes acerca das diversas partes de um software, seja arquitetural, de implementação e até de design, se for preciso. Um recurso que auxilia a equipe de desenvolvimento, principalmente na etapa de documentação e posteriormente de implementação do software, é o uso de diagramas, que são baseados na UML. Dentro dos diagramas estruturais, encontra-se o diagrama de classes, que oferece um diagrama muito interessante em termos de estrutura, devido à sua riqueza de elementos.
+Descreva o que é o diagrama de classes, sua utilização e em que etapa do projeto ele é criado.   
+
+Resposta: O diagrama de classes é um diagrama estrutural da UML que representa a estrutura estática de um sistema, mostrando as classes, seus atributos, métodos e os relacionamentos entre elas. Ele é utilizado para modelar e documentar a estrutura do software, servindo como base para a implementação do sistema. Esse diagrama é criado durante a fase de análise e projeto do software, após o levantamento dos requisitos.
+
+Questão 7:
+
+A elicitação de requisitos é o processo para descobrir os requisitos para um sistema de software pretendido, comunicando-se com o cliente, usuários finais, usuários do sistema e outros que tenham participação no desenvolvimento do sistema de software. Existem várias maneiras de descobrir os requisitos. Cite pelo menos 2 técnicas para realizar o levantamento de requisitos e explique cada uma delas.
+
+Resposta: Entrevista: consiste na realização de conversas com clientes, usuários e demais stakeholders para identificar necessidades, expectativas e problemas relacionados ao sistema. Essa técnica permite obter informações detalhadas e esclarecer dúvidas. Questionário: consiste na aplicação de formulários com perguntas aos usuários e stakeholders. É uma técnica útil quando há muitas pessoas envolvidas, permitindo coletar informações de forma rápida e padronizada.
+
 ## Arquitetura de Sistemas
 
 Questão 1: Padrão MVP
